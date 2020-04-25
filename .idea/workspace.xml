@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8335db4a-1bac-47f3-86ba-fb90393eed79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:/Go" />
+  <component name="ProjectId" id="1b0nf3uJaXcjkhsWkmOTbiCpt6t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\go\src\awesomeProject\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\go\src\awesomeProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build awesomeProject/main">
+    <configuration name="go build awesomeProject/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <package value="awesomeProject/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build awesomeProject/main" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="358" y="2" key="#go_build_main.go" timestamp="1587779809345">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="2" key="#go_build_main.go/0.0.1280.680@0.0.1280.680" timestamp="1587779809345" />
+    <state width="569" height="466" key="DebuggerActiveHint" timestamp="1587786890314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="569" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1587786890314" />
+    <state width="1237" height="246" key="GridCell.Tab.0.bottom" timestamp="1587787053348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="246" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587787053348" />
+    <state width="1237" height="246" key="GridCell.Tab.0.center" timestamp="1587787053348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="246" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587787053348" />
+    <state width="1237" height="246" key="GridCell.Tab.0.left" timestamp="1587787053347">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="246" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587787053347" />
+    <state width="1237" height="246" key="GridCell.Tab.0.right" timestamp="1587787053348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="246" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587787053348" />
+    <state width="1237" height="246" key="GridCell.Tab.1.bottom" timestamp="1587787053348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="246" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587787053348" />
+    <state width="1237" height="246" key="GridCell.Tab.1.center" timestamp="1587787053348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="246" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1587787053348" />
+    <state width="1237" height="246" key="GridCell.Tab.1.left" timestamp="1587787053348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="246" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1587787053348" />
+    <state width="1237" height="246" key="GridCell.Tab.1.right" timestamp="1587787053348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="246" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1587787053348" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1587785248143">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587785248143" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1587784298755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1587784298755" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/main.go</url>
+          <line>225</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="input" />
+        <watch expression="results" />
+        <watch expression="map[Telemetry]" />
+        <watch expression="Telemetry" />
+        <watch expression="&lt;-reducerOutput" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
